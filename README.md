@@ -1,6 +1,10 @@
 # awesome-green-it
 An awesome list of sites/books about green IT. Because ecology matters !!
 
+The necessity of changing our habits
+
+https://academic.oup.com/bioscience/article-abstract/doi/10.1093/biosci/bix125/4605229?redirectedFrom=fulltext 
+
 books
 
 - A good french book listing more than 115 good practices. They are more related to code but you can find some architectural advices too. https://ecoconceptionweb.com/
