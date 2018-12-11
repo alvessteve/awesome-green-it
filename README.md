@@ -36,3 +36,4 @@ articles:
 - https://blog.netapsys.fr/de-leco-conception-logicielle-12/
 - https://blog.octo.com/tag/green-it/
 - https://blog.octo.com/comment-reconcilier-lit-et-lecologie/
+- https://www.24joursdeweb.fr/2018/impact-ecologique-du-numerique/
