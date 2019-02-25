@@ -38,3 +38,7 @@ articles:
 - https://blog.octo.com/comment-reconcilier-lit-et-lecologie/
 - https://www.24joursdeweb.fr/2018/impact-ecologique-du-numerique/
 - https://www.developpez.com/actu/237653/Le-langage-JavaScript-est-il-responsable-de-la-lenteur-des-sites-Web-de-nos-jours-Oui-selon-un-expert/
+
+english resources:
+
+- https://leanstartup.co/when-lean-startup-meets-green-technology/ (green lean startup)
