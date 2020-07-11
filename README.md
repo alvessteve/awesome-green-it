@@ -12,6 +12,11 @@ books
 - http://www.lulu.com/shop/green-code-lab/green-patterns-manuel-d%C3%A9co-conception-des-logiciels/paperback/product-18870559.html
 - https://www.amazon.com/_/dp/1491935774?tag=oreilly20-20 (Designing for sustainability)
 
+Podcast
+
+-[Techologie](https://techologie.net/episodes.html) - me podcast qui essaie de lier technologie et écologie alors que tout les oppose
+
+
 organisations
 
 - The french main organisation about green IT: https://www.greenit.fr/
