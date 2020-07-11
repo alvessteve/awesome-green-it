@@ -50,3 +50,4 @@ companies
 
 - https://ecograder.com/ (eco conception ranker)
 - https://www.mightybytes.com/ 
+- [Commown](https://commown.coop/) - eco responsible hardware rental  (fanless computers, laptops, smartphones)
