@@ -50,6 +50,8 @@ articles:
 english resources:
 
 - https://leanstartup.co/when-lean-startup-meets-green-technology/ (green lean startup)
+- [Awesome low-tech](https://github.com/Antharia/awesome-lowtech) - similar awesome curation list about low-tech
+
 
 companies
 
